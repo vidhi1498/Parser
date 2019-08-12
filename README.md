@@ -1,0 +1,3 @@
+# Parser
+
+ AnautomatedpacketparserusingKafka-Python.UsedApacheKafka toproducetheparseddataandthenitisconsumedbyKafka Consumer
